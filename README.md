@@ -6,4 +6,4 @@ It allows users to create "playlists" for movies and TV shows. It also allows us
 
 ## Home Screen
 
-![Home Screen](https://github.com/user-attachments/assets/464923a1-67a7-44c5-95dd-0744eae6089c)
+<img src="https://github.com/user-attachments/assets/464923a1-67a7-44c5-95dd-0744eae6089c" width="300" />
